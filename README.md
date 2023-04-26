@@ -8,5 +8,3 @@
   <br>
   <br>
 </p>
-
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Splatcrafter&theme=react-dark" alt="Splatcrafter" /> </p>
