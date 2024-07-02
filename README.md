@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hallo | Hello | こんにちは
 
-- 🧑‍💻 I'm a java backend apprentice developer (half-fullstack)
+- 🧑‍💻 I'm a java backend apprentice developer in the second year of my apprenticeship
 - 🌱 I'm currently learning TypeScript in combination of JavaScript, React, HTML, CSS and Tailwind CSS
 - 📫 How to reach me: [Discord - @splatcrafter](https://discordapp.com/users/dtAGwuUv)
 - ⚡ Fun fact: I love learning japanese and playing Splatoon as well as Minecraft
