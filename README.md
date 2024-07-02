@@ -6,11 +6,14 @@
 
 - 🧑‍💻 I'm a java backend apprentice developer in the second year of my apprenticeship
 - 🌱 I'm currently learning TypeScript in combination of JavaScript, React, HTML, CSS and Tailwind CSS
-- 📫 How to reach me: [Discord - @splatcrafter](https://discordapp.com/users/dtAGwuUv)
+- 👯 I'm the owner and developer of the [Splatgames.de Network](https://splatgames.de)
+- 💬 Also, i'm the main developer of the [Splatgames.de Play Project](https://play.splatgames.de) as well as
+  the [P2P-Chatter Project](https://p2p-chatter.de) (currently offline)
 - ⚡ Fun fact: I love learning japanese and playing Splatoon as well as Minecraft
 - 🎌 My native language is german, but I'm also fluent in english and learning japanese (currently at N5 level)
 - 🎮 I'm a gamer and I love playing games like Minecraft, Splatoon, Zelda, Mario and many more
 - 🏆 My goal is to become a fullstack developer and work in Japan
+- 📫 How to reach me: [Discord - @splatcrafter](https://discordapp.com/users/dtAGwuUv)
   <br>
 
 ## 🌱 Skills
