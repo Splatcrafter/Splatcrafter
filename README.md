@@ -17,6 +17,10 @@
 - 📫 How to reach me: [Discord - @splatcrafter](https://discordapp.com/users/dtAGwuUv)
   <br>
 
+## ❗Important
+
+I'm more active on the [Splatgames.de Git](https://git.splatgames.de/Splatcrafter/) since we are moved from GitHub to our own instance of Forgejo.
+
 ## 🌱 Skills
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=java,cs,cpp,c,python,kotlin,md,html,css,js,ts,react,php,tailwind,maven,gradle,git,jenkins,mysql,docker,gcp" />
