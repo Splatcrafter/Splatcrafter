@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love learning japanese and playing Splatoon as well as Minecraft
 - 🎌 My native language is german, but I'm also fluent in english and learning japanese (currently at N5 level)
 - 🎮 I'm a gamer and I love playing games like Minecraft, Splatoon, Zelda, Mario and many more
-- 🏆 My goal is to become a fullstack developer and work in Japan
+- 🏆 My goal is to become a fullstack developer working remotely in Japan
 - 📫 How to reach me: [Discord - @splatcrafter](https://discordapp.com/users/dtAGwuUv)
   <br>
 
