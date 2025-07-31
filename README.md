@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hallo | Hello | こんにちは
 
-- 🧑‍💻 I'm a fullstack apprentice developer in the second year of my apprenticeship with focus on backend in Java
+- 🧑‍💻 I'm a fullstack apprentice developer in the third and last year of my apprenticeship with focus on backend in Java
 - 🌱 I'm currently learning TypeScript in combination with JavaScript, React, HTML, CSS and Tailwind CSS
 - 👯 I'm the owner and developer of the [Splatgames.de Network](https://splatgames.de)
 - 💬 Also, i'm the main developer of the [Splatgames.de Play Project](https://play.splatgames.de) as well as
