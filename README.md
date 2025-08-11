@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning TypeScript in combination with JavaScript, React, HTML, CSS and Tailwind CSS
 - 👯 I'm the owner and developer of the [Splatgames.de Network](https://splatgames.de)
 - 💬 Also, i'm the main developer of the [Splatgames.de Play Project](https://play.splatgames.de) as well as
-  the [P2P-Chatter Project](https://p2p-chatter.de) (currently offline)
+  the [P2P-Chatter Project](https://p2p-chatter.de) (deprecated)
 - 💻 I have 8 years of programming knowledge
 - ⚡ Fun fact: I love learning japanese and playing Splatoon as well as Minecraft
 - 🎌 My native language is german, but I'm also fluent in english and learning japanese (currently at N5 level)
