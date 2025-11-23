@@ -19,7 +19,12 @@
 
 ## ❗Important
 
-I'm more active on the [Splatgames.de Git](https://git.splatgames.de/Splatcrafter/) since we are moved from GitHub to our own instance of Forgejo.
+I'm active on the [Splatgames.de Git](https://git.splatgames.de/Splatcrafter/) as well as on GitHub.
+
+## ✨ Support
+
+If you want to support my open-source work you can join my Patreon for exclusive content and insights:  
+👉 https://patreon.com/Splatcrafter
 
 ## 🌱 Skills
 
