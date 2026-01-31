@@ -4,22 +4,28 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hallo | Hello | こんにちは
 
-- 🧑‍💻 I'm a fullstack apprentice developer in the third and last year of my apprenticeship with focus on backend in Java
-- 🌱 I'm currently learning TypeScript in combination with JavaScript, React, HTML, CSS and Tailwind CSS
+- 🧑‍💻 **Fullstack Apprentice Developer** in the 3rd year, specializing in high-quality **Java Backend & Deep-Tech**.
+- 🚀 I love to understand internals of the **JVM** and more advanced topics of programming.
+- 🛠️ I'm the creator of the Open-Source **Aether** product line, featuring **Aether Datafixers** – a pipeline-based data migration tool for format-independent processing.
 - 👯 I'm the owner and developer of the [Splatgames.de Network](https://splatgames.de)
-- 💬 Also, i'm the main developer of the [Splatgames.de Play Project](https://play.splatgames.de) as well as
-  the [P2P-Chatter Project](https://p2p-chatter.de) (deprecated)
 - 💻 I have 9,5 years of programming knowledge
 - ⚡ Fun fact: I love learning japanese and playing Splatoon as well as Minecraft
-- 🎌 My native language is german, but I'm also fluent in english and learning japanese (currently at N5 level)
-- 🎮 I'm a gamer and I love playing games like Minecraft, Splatoon, Zelda, Mario and many more
-- 🏆 My goal is to become a fullstack developer working remotely in Japan
+- 🎮 I'm a gamer and I love playing games like Minecraft, Splatoon, Zelda, Mario and many more.
+- 🏆 My goal is building a career in **Deep-Tech, R&D, or Open Source**.
+- 🎌 **Languages:** Native German, fluent English, and Japanese (JLPT N4 niveau). 
+- 🌍 **Languages I'm also learning:** Also proficient in Spanish (~A2), basics in Chinese (~A1), and currently exploring Cyrillic/Russian.
 - 📫 How to reach me: [Discord - @splatcrafter](https://discordapp.com/users/dtAGwuUv)
   <br>
 
+## 🏗️ Featured Projects
+
+* **[Aether Datafixers](https://github.com/aether-framework/aether-datafixers)**: A high-performance library for complex data migration. It utilizes a pipeline-based architecture and intermediate representations to achieve complete format independence.
+* **[Splatgames.de Software](https://software.splatgames.de)**: Founder and lead developer of the organization managing the Aether toolsuite. (Note: Web presence is currently under development, so no public webpage for now).
+* **XINI (Upcoming)**: A next-generation configuration framework designed to extend the classic INI format with typesafe syntax rules and advanced features, while maintaining strict backwards compatibility with the original specification.
+
 ## ❗Important
 
-I'm active on the [Splatgames.de Git](https://git.splatgames.de/Splatcrafter/) as well as on GitHub.
+I'm active on both the [Splatgames.de Git](https://git.splatgames.de/Splatcrafter/) and GitHub.
 
 ## ✨ Support
 
