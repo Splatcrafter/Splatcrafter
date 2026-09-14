@@ -9,6 +9,7 @@
 - 🛠️ I'm the creator of the Open-Source **Aether** product line, featuring **Aether Datafixers** – a pipeline-based data migration tool for format-independent processing.
 - 👯 I'm the owner and developer of the [Splatgames.de Network](https://splatgames.de)
 - 💻 I have 9,5 years of programming knowledge
+- 🧥 I'm a junior developer @ [RelationFlow](https://relationflow.io/)
 - ⚡ Fun fact: I love learning japanese and playing Splatoon as well as Minecraft
 - 🎮 I'm a gamer and I love playing games like Minecraft, Splatoon, Zelda, Mario and many more.
 - 🏆 My goal is building a career in **Deep-Tech, R&D, or Open Source**.
