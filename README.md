@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hallo | Hello | こんにちは
 
-- 🧑‍💻 **Fullstack Developer** specializing in high-quality **Java Backend & Deep-Tech**.
+- 🧑‍💻 **Fullstack Software Engineer** specializing in high-quality **Java Backend & Deep-Tech**.
 - 🚀 I love to understand internals of the **JVM** and more advanced topics of programming.
 - 🛠️ I'm the creator of the Open-Source **Aether** product line, featuring **Aether Datafixers** – a pipeline-based data migration tool for format-independent processing.
 - 👯 I'm the owner and developer of the [Splatgames.de Network](https://splatgames.de)
