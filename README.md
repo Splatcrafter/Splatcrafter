@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love learning japanese and playing Splatoon as well as Minecraft
 - 🎮 I'm a gamer and I love playing games like Minecraft, Splatoon, Zelda, Mario and many more.
 - 🏆 My goal is building a career in **Deep-Tech, R&D, or Open Source**.
-- 🎌 **Languages:** Native German, fluent English, and Japanese (JLPT N4 niveau). 
+- 🎌 **Languages:** Native German, fluent English, and Japanese (JLPT N4/N3 niveau). 
 - 🌍 **Languages I'm also learning:** Also proficient in Spanish (~A2), basics in Chinese (~A1), and currently exploring Cyrillic/Russian.
 - 📫 How to reach me: [Discord - @splatcrafter](https://discordapp.com/users/dtAGwuUv)
   <br>
